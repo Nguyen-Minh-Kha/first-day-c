@@ -25,4 +25,24 @@ git push origin go
 8. 
 `git checkout -b gogo`
 
-9.
+
+10.
+`git status`
+
+11.
+> le fichier est untracked
+
+12.
+`git add <filename>`
+
+13.
+> "changes to be committed"
+
+14.
+`git commit -m "commit message"`
+
+15.
+> nothing to commit, working tree clean
+
+16. 
+> changes not staged to commit, Untracked files
