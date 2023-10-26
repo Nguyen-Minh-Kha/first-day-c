@@ -46,3 +46,15 @@ git push origin go
 
 16. 
 > changes not staged to commit, Untracked files
+
+19.
+> on a ajouté le changement de l'ancien fichier dans le stage et commit, mais pas le nouveau fichier, donc on attend à ajouter le nouveau fichier dans le stage
+
+22.
+`git log`
+
+25.
+![Alt text](image.png)
+
+le git log montre tout les changement du projet
+
